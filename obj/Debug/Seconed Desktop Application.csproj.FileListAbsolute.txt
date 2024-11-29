@@ -1,0 +1,10 @@
+D:\.net trainig\Seconed Desktop Application\bin\Debug\Seconed Desktop Application.exe.config
+D:\.net trainig\Seconed Desktop Application\bin\Debug\Seconed Desktop Application.exe
+D:\.net trainig\Seconed Desktop Application\bin\Debug\Seconed Desktop Application.pdb
+D:\.net trainig\Seconed Desktop Application\obj\Debug\Seconed Desktop Application.csproj.AssemblyReference.cache
+D:\.net trainig\Seconed Desktop Application\obj\Debug\Seconed_Desktop_Application.Form1.resources
+D:\.net trainig\Seconed Desktop Application\obj\Debug\Seconed_Desktop_Application.Properties.Resources.resources
+D:\.net trainig\Seconed Desktop Application\obj\Debug\Seconed Desktop Application.csproj.GenerateResource.cache
+D:\.net trainig\Seconed Desktop Application\obj\Debug\Seconed Desktop Application.csproj.CoreCompileInputs.cache
+D:\.net trainig\Seconed Desktop Application\obj\Debug\Seconed Desktop Application.exe
+D:\.net trainig\Seconed Desktop Application\obj\Debug\Seconed Desktop Application.pdb
